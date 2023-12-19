@@ -63,3 +63,8 @@ This concept aims to use data analysis and predictive modeling to anticipate pot
 ### COPYRIGHT
 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+
+### REFERENCES
+
+[Pothole Detection](https://geoawesomeness.com/eo-hub/application-of-mobile-lidar-on-pothole-detection/)
+[CityROVER](https://www.cityrover.com/)
