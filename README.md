@@ -9,6 +9,8 @@
 This concept aims to use data analysis and predictive modeling to anticipate potholes, particularly in different scenarios, and provide valuable insights for maintenance and infrastructure planning. Predicting potholes is a challenging task due to the multitude of interconnected factors involved, the dynamic nature of the environment, and the complexity of data analysis required. While advancements in technology and data analysis may improve predictive capabilities, pothole prediction remains a complex problem with inherent uncertainties.
 
 #
+![Potholes](https://github.com/sourceduty/Pothole_Prediction/assets/123030236/bc5734a6-b71c-4d85-b957-953a4e4830b4)
+#
 
 ### INSTRUCTIONS
 
