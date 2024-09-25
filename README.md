@@ -1,18 +1,12 @@
-### Pothole_Prediction
-
-🗺️ Software concept for predicting and mitigating future potholes in roadways. 
-
-#
 ![Potholes](https://github.com/sourceduty/Pothole_Prediction/assets/123030236/bc5734a6-b71c-4d85-b957-953a4e4830b4)
-#
 
-### CONCEPT
+> Software concept for predicting and mitigating future potholes in roadways. 
+
+#
 
 This concept aims to use data analysis and predictive modeling to anticipate potholes, particularly in different scenarios, and provide valuable insights for maintenance and infrastructure planning. Predicting potholes is a challenging task due to the multitude of interconnected factors involved, the dynamic nature of the environment, and the complexity of data analysis required. While advancements in technology and data analysis may improve predictive capabilities, pothole prediction remains a complex problem with inherent uncertainties.
 
-
 #
-
 ### INSTRUCTIONS
 
 1. Site Locations
@@ -59,15 +53,12 @@ This concept aims to use data analysis and predictive modeling to anticipate pot
 - Prepare a comprehensive Pothole Prediction Report.
 
 #
-
-### REFERENCES
+### Related Links
 
 [Pothole Detection](https://geoawesomeness.com/eo-hub/application-of-mobile-lidar-on-pothole-detection/)
-
+<br>
 [CityROVER](https://www.cityrover.com/)
 
-#
-
-### COPYRIGHT
+***
 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
